@@ -1,4 +1,4 @@
-# 🖼 Chat app
+# 🖼 Top 25 movies app
 
 ![Alt text](https://github.com/swartyteam/top-movies/blob/master/screen.png)
 
